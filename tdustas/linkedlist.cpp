@@ -16,7 +16,6 @@ class LL{
     public:
     void insert(int data);
     void display();
-    void display();
 };
 
 
